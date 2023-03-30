@@ -1,3 +1,6 @@
+Dhruba Jyoti Dutta
+Electrical engineering,Assam engineering college, Jalukbari guwahati
+
 - 👋 Hi, I’m @Dhruba-jyoti-dutta
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
